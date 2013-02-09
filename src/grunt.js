@@ -6,7 +6,7 @@ module.exports = function(grunt) {
         cmpnt: '<json:../component.json>',
         meta: {
             banner: "/*! AcronymJS v<%= cmpnt.version %> " +
-                    "http://gleero.com/acronymjs/ */\n"
+                    "http://gleero.com/all/acronymjs/ https://github.com/gleero/acronymJS */\n"
         },
         lint: {
             files: [
