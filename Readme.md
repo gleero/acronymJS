@@ -44,7 +44,7 @@ $("p, h1").acronym({
 
 ## Demo
 
-See [Live Demo](http://gleero.com/:-)/16/demo.html)
+See [Live Demo](http://gleero.com/demo/acronymJS/index.html)
 
 
 ## Build
