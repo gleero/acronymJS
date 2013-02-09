@@ -24,15 +24,15 @@ $("p").acronym();
 `tracking`
 
 Letter-spacing. Amount of space between a group of letters in a line or block of text.
-Is letter-spacing CSS rule. Indicated in `em` or `px`.
+Is letter-spacing CSS rule. Indicated in em or px.
 
-Default value: `0.15em`.
+Default value: 0.15em.
 
 `size`
 
-Small caps font size. Indicated in `em` or `px` and percents.
+Small caps font size. Indicated in em or px and percents.
 
-Default value: `90%`.
+Default value: 90%.
 
 ```javascript
 $("p, h1").acronym({
@@ -44,7 +44,7 @@ $("p, h1").acronym({
 
 ## Demo
 
-See src/demo.html
+See [Live Demo](http://gleero.com/:-)/16/demo.html)
 
 
 ## Build
