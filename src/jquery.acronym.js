@@ -51,7 +51,6 @@
             $(this).html(text);
         });
 
-        // Чейнабилити
         return this;
       };
 
